@@ -1,0 +1,199 @@
+Source,Target,Type,Label
+Polyommatus icarus,Formicidae,Directed,preyedUponBy
+Polyommatus icarus,Misumena vatia,Directed,preyedUponBy
+Polyommatus icarus,Misumena vatia,Directed,preyedUponBy
+Polyommatus icarus,Formicidae,Directed,preyedUponBy
+Polyommatus icarus,Aplomya confinis,Directed,hasEndoparasitoid
+Polyommatus icarus,Aplomya confinis,Directed,hasEndoparasitoid
+Vanessa atalanta,Hierodula transcaucasica,Directed,preyedUponBy
+Vanessa atalanta,Myiarchus tuberculifer,Directed,preyedUponBy
+Vanessa atalanta,Lanius ludovicianus,Directed,preyedUponBy
+Vanessa atalanta,Vespa crabro,Directed,preyedUponBy
+Vanessa atalanta,Sayornis phoebe,Directed,preyedUponBy
+Vanessa atalanta,Myiarchus tuberculifer,Directed,preyedUponBy
+Vanessa atalanta,Hierodula transcaucasica,Directed,preyedUponBy
+Vanessa atalanta,Merops apiaster,Directed,preyedUponBy
+Vanessa atalanta,Vespula germanica,Directed,preyedUponBy
+Vanessa atalanta,Sayornis saya,Directed,preyedUponBy
+Vanessa atalanta,Merops persicus,Directed,preyedUponBy
+Vanessa atalanta,Mantis religiosa,Directed,preyedUponBy
+Vanessa atalanta,Progne subis,Directed,preyedUponBy
+Vanessa atalanta,Sayornis saya,Directed,preyedUponBy
+Vanessa atalanta,Sayornis phoebe,Directed,preyedUponBy
+Vanessa atalanta,Mantis religiosa,Directed,preyedUponBy
+Vanessa atalanta,Vespa crabro,Directed,preyedUponBy
+Vanessa atalanta,Merops persicus,Directed,preyedUponBy
+Vanessa atalanta,Vespula germanica,Directed,preyedUponBy
+Vanessa atalanta,Lanius ludovicianus,Directed,preyedUponBy
+Vanessa atalanta,Merops apiaster,Directed,preyedUponBy
+Vanessa atalanta,Progne subis,Directed,preyedUponBy
+Vanessa atalanta,Pales pavida,Directed,hasEndoparasitoid
+Vanessa atalanta,Pales pavida,Directed,hasEndoparasitoid
+Vanessa atalanta,Voria ruralis,Directed,hasEndoparasitoid
+Vanessa atalanta,Phryxe nemea,Directed,hasEndoparasitoid
+Vanessa atalanta,Phryxe nemea,Directed,hasEndoparasitoid
+Vanessa atalanta,Voria ruralis,Directed,hasEndoparasitoid
+Vanessa cardui,Empidonax,Directed,preyedUponBy
+Vanessa cardui,Misumena,Directed,preyedUponBy
+Vanessa cardui,Trogon mexicanus,Directed,preyedUponBy
+Vanessa cardui,Thomisidae,Directed,preyedUponBy
+Vanessa cardui,Sayornis nigricans,Directed,preyedUponBy
+Vanessa cardui,Phymata americana,Directed,preyedUponBy
+Vanessa cardui,Tenodera sinensis,Directed,preyedUponBy
+Vanessa cardui,Misumenoides formosipes,Directed,preyedUponBy
+Vanessa cardui,Actitis macularius,Directed,preyedUponBy
+Vanessa cardui,Empusa pennata,Directed,preyedUponBy
+Vanessa cardui,Misumena,Directed,preyedUponBy
+Vanessa cardui,Tenodera sinensis,Directed,preyedUponBy
+Vanessa cardui,Contopus sordidulus,Directed,preyedUponBy
+Vanessa cardui,Thomisidae,Directed,preyedUponBy
+Vanessa cardui,Sayornis nigricans,Directed,preyedUponBy
+Vanessa cardui,Lanius collurio,Directed,preyedUponBy
+Vanessa cardui,Formicidae,Directed,preyedUponBy
+Vanessa cardui,Phymata americana,Directed,preyedUponBy
+Vanessa cardui,Misumena vatia,Directed,preyedUponBy
+Vanessa cardui,Dicrurus adsimilis adsimilis,Directed,preyedUponBy
+Vanessa cardui,Merops apiaster,Directed,preyedUponBy
+Vanessa cardui,Trogon mexicanus,Directed,preyedUponBy
+Vanessa cardui,Empidonax,Directed,preyedUponBy
+Vanessa cardui,Misumenoides formosipes,Directed,preyedUponBy
+Vanessa cardui,Araneae,Directed,preyedUponBy
+Vanessa cardui,Empusa pennata,Directed,preyedUponBy
+Vanessa cardui,Dicrurus adsimilis adsimilis,Directed,preyedUponBy
+Vanessa cardui,Misumena vatia,Directed,preyedUponBy
+Vanessa cardui,Formicidae,Directed,preyedUponBy
+Vanessa cardui,Contopus sordidulus,Directed,preyedUponBy
+Vanessa cardui,Merops apiaster,Directed,preyedUponBy
+Vanessa cardui,Lanius collurio,Directed,preyedUponBy
+Vanessa cardui,Actitis macularius,Directed,preyedUponBy
+Vanessa cardui,Araneae,Directed,preyedUponBy
+Vanessa cardui,Phryxe vulgaris,Directed,hasEndoparasitoid
+Vanessa cardui,Phryxe vulgaris,Directed,hasEndoparasitoid
+Melitaea athalia,Agelena labyrinthica,Directed,preyedUponBy
+Melitaea athalia,Agelena labyrinthica,Directed,preyedUponBy
+Melitaea athalia,Phryxe nemea,Directed,hasEndoparasitoid
+Melitaea athalia,Phryxe nemea,Directed,hasEndoparasitoid
+Melitaea athalia,Agelena labyrinthica,Directed,preyedUponBy
+Melitaea athalia,Agelena labyrinthica,Directed,preyedUponBy
+Melitaea didyma,Myotis crypticus,Directed,preyedUponBy
+Melitaea didyma,Myotis crypticus,Directed,preyedUponBy
+Melitaea phoebe,Orthetrum albistylum,Directed,preyedUponBy
+Melitaea phoebe,Orthetrum albistylum,Directed,preyedUponBy
+Ochlodes venata faunus,Orthetrum cancellatum,Directed,preyedUponBy
+Ochlodes venata faunus,Orthetrum cancellatum,Directed,preyedUponBy
+Papilio machaon,Peleteria rubescens,Directed,hasEndoparasitoid
+Papilio machaon,Peleteria rubescens,Directed,hasEndoparasitoid
+Papilio machaon hippocrates,Sieboldius albardae,Directed,preyedUponBy
+Papilio machaon hippocrates,Sieboldius albardae,Directed,preyedUponBy
+Papilio machaon,Vespa crabro,Directed,preyedUponBy
+Papilio machaon,Merops apiaster,Directed,preyedUponBy
+Papilio machaon,Pelophylax perezi,Directed,preyedUponBy
+Papilio machaon,Pelophylax perezi,Directed,preyedUponBy
+Papilio machaon,Vespa crabro,Directed,preyedUponBy
+Papilio machaon,Merops apiaster,Directed,preyedUponBy
+Papilio machaon,Trogus lapidator,Directed,hasParasitoid
+Papilio machaon,Trogus lapidator,Directed,hasParasitoid
+Pararge aegeria,Turdus merula,Directed,preyedUponBy
+Pararge aegeria,Turdus merula,Directed,preyedUponBy
+Pieris napi,Phryxe vulgaris,Directed,hasEndoparasitoid
+Pieris napi,Phryxe vulgaris,Directed,hasEndoparasitoid
+Pieris rapae,Compsilura concinnata,Directed,hasEndoparasitoid
+Pieris rapae,Phryxe vulgaris,Directed,hasEndoparasitoid
+Pieris rapae,Phryxe vulgaris,Directed,hasEndoparasitoid
+Pieris rapae,Compsilura concinnata,Directed,hasEndoparasitoid
+Pieris rapae,Polistes,Directed,preyedUponBy
+Pieris rapae,Polistes,Directed,preyedUponBy
+Pieris rapae,Pteromalus puparum,Directed,preyedUponBy
+Pieris rapae,Asilus sericeus,Directed,preyedUponBy
+Pieris rapae,Efferia aestuans,Directed,preyedUponBy
+Pieris rapae,Reduviidae,Directed,preyedUponBy
+Pieris rapae,Colonus hesperus,Directed,preyedUponBy
+Pieris rapae,Miomantis caffra,Directed,preyedUponBy
+Pieris rapae,Thomisidae,Directed,preyedUponBy
+Pieris rapae,Acrocephalus australis,Directed,preyedUponBy
+Pieris rapae,Orthodera novaezealandiae,Directed,preyedUponBy
+Pieris rapae,Phymata americana,Directed,preyedUponBy
+Pieris rapae,Tyrannus melancholicus,Directed,preyedUponBy
+Pieris rapae,Phymata,Directed,preyedUponBy
+Pieris rapae,Misumenoides formosipes,Directed,preyedUponBy
+Pieris rapae,Phidippus audax,Directed,preyedUponBy
+Pieris rapae,Polistes dominula,Directed,preyedUponBy
+Pieris rapae,Carabus nemoralis,Directed,preyedUponBy
+Pieris rapae,Leiothlypis peregrina,Directed,preyedUponBy
+Pieris rapae,Misumena vatia,Directed,preyedUponBy
+Pieris rapae,Merops apiaster,Directed,preyedUponBy
+Pieris rapae,Thomisidae,Directed,preyedUponBy
+Pieris rapae,Orthodera novaezealandiae,Directed,preyedUponBy
+Pieris rapae,Acrocephalus australis,Directed,preyedUponBy
+Pieris rapae,Tyrannus melancholicus,Directed,preyedUponBy
+Pieris rapae,Carabus nemoralis,Directed,preyedUponBy
+Pieris rapae,Misumena vatia,Directed,preyedUponBy
+Pieris rapae,Efferia aestuans,Directed,preyedUponBy
+Pieris rapae,Misumenoides formosipes,Directed,preyedUponBy
+Pieris rapae,Pteromalus puparum,Directed,preyedUponBy
+Pieris rapae,Leiothlypis peregrina,Directed,preyedUponBy
+Pieris rapae,Miomantis caffra,Directed,preyedUponBy
+Pieris rapae,Asilus sericeus,Directed,preyedUponBy
+Pieris rapae,Phidippus audax,Directed,preyedUponBy
+Pieris rapae,Phymata,Directed,preyedUponBy
+Pieris rapae,Colonus hesperus,Directed,preyedUponBy
+Pieris rapae,Polistes dominula,Directed,preyedUponBy
+Pieris rapae,Reduviidae,Directed,preyedUponBy
+Pieris rapae,Phymata americana,Directed,preyedUponBy
+Pieris rapae,Merops apiaster,Directed,preyedUponBy
+Aglais io,Misumena vatia,Directed,preyedUponBy
+Aglais io,Motacilla alba,Directed,preyedUponBy
+Aglais io,Misumena vatia,Directed,preyedUponBy
+Aglais io,Motacilla alba,Directed,preyedUponBy
+Aglais urticae,Sturmia bella,Directed,hasEndoparasitoid
+Aglais urticae,Pelatachina tibialis,Directed,hasEndoparasitoid
+Aglais urticae,Compsilura concinnata,Directed,hasEndoparasitoid
+Aglais urticae,Pales pavida,Directed,hasEndoparasitoid
+Aglais urticae,Solieria pacifica,Directed,hasEndoparasitoid
+Aglais urticae,Phryxe vulgaris,Directed,hasEndoparasitoid
+Aglais urticae,Phryxe nemea,Directed,hasEndoparasitoid
+Aglais urticae,Sturmia bella,Directed,hasEndoparasitoid
+Aglais urticae,Pelatachina tibialis,Directed,hasEndoparasitoid
+Aglais urticae,Phryxe vulgaris,Directed,hasEndoparasitoid
+Aglais urticae,Solieria pacifica,Directed,hasEndoparasitoid
+Aglais urticae,Compsilura concinnata,Directed,hasEndoparasitoid
+Aglais urticae,Pales pavida,Directed,hasEndoparasitoid
+Aglais urticae,Phryxe nemea,Directed,hasEndoparasitoid
+Celastrina argiolus,Cotesia inducta,Directed,hasEndoparasitoid
+Celastrina argiolus,Listrodromus nycthemerus,Directed,hasEndoparasitoid
+Celastrina argiolus,Phryxe magnicornis,Directed,hasEndoparasitoid
+Celastrina argiolus,Listrodromus nycthemerus,Directed,hasEndoparasitoid
+Celastrina argiolus,Aplomya confinis,Directed,hasEndoparasitoid
+Celastrina argiolus,Aplomya confinis,Directed,hasEndoparasitoid
+Celastrina argiolus,Cotesia inducta,Directed,hasEndoparasitoid
+Celastrina argiolus,Phryxe magnicornis,Directed,hasEndoparasitoid
+Coenonympha pamphilus,Misumena vatia,Directed,preyedUponBy
+Coenonympha pamphilus,Misumena vatia,Directed,preyedUponBy
+Coenonympha pamphilus,Drosera rotundifolia,Directed,preyedUponBy
+Coenonympha pamphilus,Drosera rotundifolia,Directed,preyedUponBy
+Lycaena phlaeas,Misumena vatia,Directed,preyedUponBy
+Lycaena phlaeas,Misumena vatia,Directed,preyedUponBy
+Lycaena phlaeas,Pales pavida,Directed,hasEndoparasitoid
+Lycaena phlaeas,Pales pavida,Directed,hasEndoparasitoid
+Pieris brassicae,Himacerus mirmicoides,Directed,preyedUponBy
+Pieris brassicae,Himacerus mirmicoides,Directed,preyedUponBy
+Pieris brassicae,Nilea hortulana,Directed,hasEndoparasitoid
+Pieris brassicae,Exorista grandis,Directed,hasEndoparasitoid
+Pieris brassicae,Compsilura concinnata,Directed,hasEndoparasitoid
+Pieris brassicae,Siphona geniculata,Directed,hasEndoparasitoid
+Pieris brassicae,Phryxe vulgaris,Directed,hasEndoparasitoid
+Pieris brassicae,Trichogramma brassicae,Directed,hasEndoparasitoid
+Pieris brassicae,Phryxe vulgaris,Directed,hasEndoparasitoid
+Pieris brassicae,Trichogramma brassicae,Directed,hasEndoparasitoid
+Pieris brassicae,Nilea hortulana,Directed,hasEndoparasitoid
+Pieris brassicae,Siphona geniculata,Directed,hasEndoparasitoid
+Pieris brassicae,Compsilura concinnata,Directed,hasEndoparasitoid
+Pieris brassicae,Exorista grandis,Directed,hasEndoparasitoid
+Pieris brassicae,Machimus chrysitis,Directed,preyedUponBy
+Pieris brassicae,Pteromalus puparum,Directed,preyedUponBy
+Pieris brassicae,Pteromalus puparum,Directed,preyedUponBy
+Pieris brassicae,Thomisus onustus,Directed,preyedUponBy
+Pieris brassicae,Machimus chrysitis,Directed,preyedUponBy
+Pieris brassicae,Thomisus onustus,Directed,preyedUponBy
+Pieris brassicae,Cotesia glomerata,Directed,hasParasitoid
+Pieris brassicae,Cotesia glomerata,Directed,hasParasitoid
